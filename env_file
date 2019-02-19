@@ -1,0 +1,9 @@
+// Este é apenas um modelo de como tem que ser o arquivo .env
+// Foi criado o env_file meramente pra vc poder ter uma referência de como é um .env no github
+// Mas aqui não vai ter nada. É um modelo apenas.
+
+// Renomeie para .env
+
+module.exports = {
+    authSecret: ''
+}
